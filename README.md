@@ -17,6 +17,6 @@ Transformer V2 models use additional U-net structure inside encoder and decoder 
 
 Results: 
 - Transformer V1 model shows some great results in predicting the shape of sinusoïdal functions, mainly DFT helps in capturing the frequencies of a signal during training.
-- Since TSLA stock has a stochastic behaviour, since seasonals and trends were not taken into account, Transformer V2 models performs badly on the stock prediction. It however shows some great results for predicting high frequency signals. 
+- Since TSLA stock has a stochastic behaviour, since seasonals and trends were not taken into account, Transformer V2 models performs badly on the stock prediction. It however shows some promising results for predicting high frequency signals. 
 
 
